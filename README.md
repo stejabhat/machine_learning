@@ -80,18 +80,3 @@ If you'd like to try it out, use your own `.csv` with similar columns, **excludi
 Made by **Teja Bhat**
 📧 [Visit Portfolio](https://stejabhat.github.io/portfolio/)
 
-````
-
----
-
-### ✅ Next Step
-
-1. Save this as a `README.md` file in your project root.
-2. Add and push it:
-
-```bash
-git add README.md
-git commit -m "Add project README"
-git push
-````
-
