@@ -1,5 +1,4 @@
 # machine_learning
-### Copy this into your `README.md` file:
 markdown
 #Intelligent Network Traffic Classifier
 
